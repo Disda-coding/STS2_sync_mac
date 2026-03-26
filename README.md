@@ -2,9 +2,7 @@
 
 这是一个专为 macOS 用户设计的脚本，用于在 **Steam 版《杀戮尖塔 2》(Slay the Spire 2)** 与 **Android 手机版** 之间同步游戏存档。
 
-
-
-该脚本通过Gemini翻译win版本bat脚本实现mac和安卓手机的同步
+感谢scp3500作者的开源。该脚本通过Gemini翻译win版本bat脚本实现mac和安卓手机的同步
 https://github.com/scp3500/STS2_Sync
 
 ## 🌟 功能特点
