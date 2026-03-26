@@ -4,7 +4,8 @@
 
 
 
-该脚本通过Gemini来实现https://github.com/scp3500/STS2_Sync的功能
+该脚本通过Gemini翻译win版本bat脚本实现mac和安卓手机的同步
+https://github.com/scp3500/STS2_Sync
 
 ## 🌟 功能特点
 
